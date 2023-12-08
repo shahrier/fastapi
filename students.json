@@ -1,12 +1,2 @@
 [
-    {
-        "id": 0,
-        "student_name": "John",
-        "score": 59.0
-    },
-    {
-        "id": 1,
-        "student_name": "Jane",
-        "score": 58.0
-    }
 ]
